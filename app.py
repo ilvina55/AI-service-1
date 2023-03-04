@@ -1,4 +1,4 @@
-$ git init
+
 
 import pip
 pip install Flask
